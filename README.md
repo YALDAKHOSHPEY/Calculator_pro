@@ -1,4 +1,4 @@
-# 🧮 Advanced Scientific  Calculator
+# 🧮 Advanced Scientific  Calculato
 
 A beautiful and fully functional scientific calculator built with HTML, CSS, and JavaScript.  
 It includes a scientific expression evaluator, a calculation history panel, and a stopwatch timer — all inside a responsive and visually modern UI.
